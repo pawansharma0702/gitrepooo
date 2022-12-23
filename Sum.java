@@ -13,5 +13,7 @@ String name="PAWAN SHARMA";
 System.out.println("Sum of A and B"+c);
 System.out.println("Multiplication of A and B"+d);
 System.out.println("My name is ==> "+name)
+System.out.println("My name is ==> "+name)
+
 }
 }
